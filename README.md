@@ -1,2 +1,2 @@
 # mojeed-portifolio
-data science potifolio on pandas, sklearn, statsmodel, numpy,seaborn and tensorflow
+data science portifolio on pandas, sklearn, statsmodel, numpy,seaborn and tensorflow
